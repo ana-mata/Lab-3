@@ -4,7 +4,7 @@
 #   Instructor: Olac Fuentes
 #   Description: Binary search tree operations
 #   T.A.: Anindita Nath
-#   Last modified: 03/07/2019
+#   Last modified: 03/08/2019
 #   Purpose: Display a BST as a figure, search a BST, extract a sorted list into a BST,
 #   extract a BST into a sorted list and print all elements by depth.
 
