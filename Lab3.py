@@ -222,7 +222,7 @@ def Depth(T):
     if T==None:
         return 0
     
-    #keeps going either left or right and returns the largest path
+    #keeps going either left or right and returns the longest path
     if T.left != None:
         return 1 + Depth(T.left)
     elif T.right != None:
